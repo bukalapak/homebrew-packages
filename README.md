@@ -2,6 +2,8 @@
 
 Homebrew packages. Available packages:
 
+- [blokade](https://github.com/bukalapak/blokade)
+
 ## Usages
 
 ``
