@@ -3,7 +3,7 @@
 Homebrew packages. Available packages:
 
 - [blokade](https://github.com/bukalapak/blokade)
-- [snowboard](https://github.com/subosito/snowboard)
+- [snowboard](https://github.com/bukalapak/snowboard)
 
 ## Usages
 
