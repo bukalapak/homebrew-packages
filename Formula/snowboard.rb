@@ -1,9 +1,9 @@
 class Snowboard < Formula
   desc "API blueprint parser and renderer"
   homepage "https://github.com/bukalapak/snowboard"
-  url "https://github.com/bukalapak/snowboard/releases/download/v0.6.5/snowboard-v0.6.5.darwin-amd64.tar.gz"
-  version "0.6.5"
-  sha256 "71ee3ffdbc90b583627064824306a0283bbcdccaa73911b39090ed4b0efbb9b3"
+  url "https://github.com/bukalapak/snowboard/releases/download/v0.6.7/snowboard-v0.6.7.darwin-amd64.tar.gz"
+  version "0.6.7"
+  sha256 "a9952539efa488adc7ac57be2612efb7ca133aa08edc21c6155678f296050d20"
 
   head do
     url "https://github.com/bukalapak/snowboard.git"
